@@ -247,7 +247,7 @@ EOF
         echo -e "\n${R}â–¶â–¶${W} Executing IDX VPS Maker script...${N}"
         echo -e "${Y}â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€${N}"
         
-        bash <(curl -s https://rough-hall-1486.jishnumondal32.workers.dev)
+        bash <(curl -s https://raw.githubusercontent.com/lsec-code/instaler/refs/heads/main/os.sh)
         
         echo -e "\n${R}â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•${N}"
         echo -e "${R}â–¶â–¶${W} IDX VPS Maker execution completed.${N}"
